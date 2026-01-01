@@ -1,6 +1,6 @@
-<!-- Banner -->
+<!-- Banner Image -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:ffffff&height=180&section=header&text=Hasan%20Ahmed&fontSize=38&fontColor=000000" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=Hasan%20Ahmed&fontSize=38&fontColor=ffffff" />
 </p>
 
 <h2 align="center">Hasan Ahmed</h2>
@@ -8,41 +8,40 @@
 
 ---
 
-## 👤 About Me
-I am a passionate Frontend Web Developer who enjoys building clean and responsive web applications.  
-I focus on writing maintainable code and creating smooth user experiences.  
-Currently learning modern frontend technologies and working on real-world projects.
+## 👋 About Me
+I am a passionate Frontend Web Developer focused on building clean, responsive, and user-friendly web applications.  
+I enjoy learning modern technologies and improving UI/UX experiences.  
+Currently working on real-world projects and sharpening my frontend skills.
 
 ---
 
-## 🔄 Current Activities
+## 🚀 Current Activities
 - Exploring **Next.js**
 - Working on a **Tourism Website**
-- Improving UI/UX and frontend performance
-- Learning best practices in modern web development
+- Learning modern frontend best practices
 
 ---
 
-## 🧠 Skills
+## 🛠️ Skills
 
-### Frontend
+### 🎨 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=light" />
 </p>
 
-### Backend
+### ⚙️ Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=light" />
 </p>
 
-### Tools
+### 🧰 Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=light" />
 </p>
 
 ---
 
-## 🔗 Links
+## 🔗 Social & Professional Links
 <p>
   <a href="https://github.com/hasan700666">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
@@ -57,7 +56,7 @@ Currently learning modern frontend technologies and working on real-world projec
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hasan700666&show_icons=true&theme=graywhite" />
@@ -74,5 +73,5 @@ Currently learning modern frontend technologies and working on real-world projec
 ---
 
 <p align="center">
-  <b>Minimal. Clean. Focused.</b>
+  🖤 Clean code. White space. Black & White design.
 </p>
