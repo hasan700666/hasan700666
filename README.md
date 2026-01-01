@@ -1,9 +1,9 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=Hasan%20Ahmed&fontSize=38&fontColor=ffffff" />
+  <img src="https://ibb.co.com/Hp9x7cC6" />
 </p>
 
-<h2 align="center">Hasan Ahmed</h2>
+<h2 align="center">Hasan Al Muttaki</h2>
 <h4 align="center">Frontend Web Developer</h4>
 
 ---
