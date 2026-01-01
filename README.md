@@ -7,10 +7,10 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** (Add your languages, e.g., JavaScript, Python, Java, etc.)
-- **Frameworks:** (Add frameworks you use, e.g., React, Node.js, Django, etc.)
-- **Tools:** Git, Docker, VS Code, etc.
-- **Databases:** MySQL, MongoDB, PostgreSQL, etc.
+- **Languages: JavaScript, Python, Java.
+- **Frameworks: React, Node.js.
+- **Tools:  Git, VS Code, etc.
+- **Databases: MongoDB.
 
 ## 📊 GitHub Stats
 
