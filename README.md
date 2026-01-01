@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://ibb.co.com/Hp9x7cC6" />
+  <img src="https://i.ibb.co.com/gFcPy0dN/Brackground-removed-photos.png" alt="Brackground removed photos" border="0">
 </p>
 
 <h2 align="center">Hasan Al Muttaki</h2>
