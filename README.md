@@ -99,22 +99,6 @@ Turning ideas into scalable web solutions
 
 ---
 
-## 🏆 Competitive Programming
-
-<p align="center">
-  <a href="https://codeforces.com/profile/your_handle" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/your_handle" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange" />
-  </a>
-  <a href="https://www.codechef.com/users/your_handle" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## 📌 Featured Projects
 
 <table align="center">
@@ -132,3 +116,19 @@ Turning ideas into scalable web solutions
 </td>
 </tr>
 </table>
+
+---
+
+## 🏆 Competitive Programming
+
+<p align="center">
+  <a href="https://codeforces.com/profile/your_handle" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/your_handle" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange" />
+  </a>
+  <a href="https://www.codechef.com/users/your_handle" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+</p>
