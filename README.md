@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hasan700666/hasan700666/main/header.svg" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=220&section=header&text=Hasan%20Al%20Muttaki&fontSize=40&fontColor=ffffff" alt="Banner" />
 </p>
 
 <h1 align="center">Hasan Al Muttaki</h1>
@@ -18,6 +18,7 @@ I’m a passionate **Full Stack Web Developer** and **CSE student** who loves bu
 * 🌱 Exploring **Next.js** and modern React patterns
 * 🧳 Working on a **Tourism Website** project
 * 🛠 Improving backend performance with **Node.js & MongoDB**
+* 🧠 Practicing **problem-solving & clean architecture**
 
 ---
 
@@ -59,6 +60,22 @@ I’m a passionate **Full Stack Web Developer** and **CSE student** who loves bu
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
+
+---
+
+## 📌 Featured Projects
+
+### 🧳 Tourism Website
+
+* A full-stack MERN project for exploring tourist destinations
+* Features: authentication, dynamic content, responsive UI
+* Tech: React, Node.js, Express, MongoDB
+
+### 🔐 Digital Safety Platform (Concept)
+
+* Focused on improving online safety & user awareness
+* Planned features: reporting system, educational resources
+* Tech Stack: MERN + Next.js (in progress)
 
 ---
 
