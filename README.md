@@ -94,7 +94,7 @@ Turning ideas into scalable web solutions
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hasan700666/hasan700666/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/hasan700666/hasan700666/blob/main/snake.yml" alt="snake animation" />
 </p>
 
 ---
