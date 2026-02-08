@@ -184,34 +184,12 @@ I am a Full Stack Developer passionate about building scalable, user-centric web
   <a href="https://www.linkedin.com/in/mohammodhasanalmuttaki/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://github.com/hasan700666">
+  <a href="mailto:mohammodhasanalmuttaki@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>  
 </p>
-<a >
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
-  </a>
-
-<p>
-  <a href="https://github.com/hasan700666">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
-  
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasan700666&show_icons=true&theme=react" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan700666&layout=compact&theme=react" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hasan700666&theme=react" />
-</p>
 
 ---
+
+
 
