@@ -3,16 +3,12 @@
 </p>
 
 <div align="center">
-
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=ffffff&center=true&vCenter=true&width=940&lines=Hi%2C+I+am+Hasan;Full-Stack+MERN+Developer;Clean+UI+%26+High-Performance+Web+Applications;Building+Scalable+%26+User-Friendly+Solutions;Open+to+Hybrid+Roles)](https://git.io/typing-svg)
-
-
-
-
 
 </div>
 
-
+---
 ---
 
 <h1 align="center">
@@ -25,8 +21,6 @@ I am a Full Stack Developer passionate about building scalable, user-centric web
 
 ---
 
----
-
 <h1 align="center">
   🛠 Skills
 </h1>
@@ -36,7 +30,31 @@ I am a Full Stack Developer passionate about building scalable, user-centric web
 </h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+<h3 align="center">
+  ⚙ Backend
+</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+<h3 align="center">
+  💻 Programming Languages
+</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,java,python" />
+</p>
+
+<h3 align="center">
+  🧰 Tools & Platforms
+</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,npm,vite,firebase,tailwind,vercel,netlify" />
 </p>
 
 ---
@@ -59,22 +77,18 @@ I am a Full Stack Developer passionate about building scalable, user-centric web
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
 </p>
 
-### ⚙ Backend
+### 
+
+
+
+### 
+
+
+
+### 
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,java,python" />
-</p>
-
-### 🧰 Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  
 </p>
 
 ---
