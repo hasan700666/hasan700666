@@ -28,11 +28,11 @@ I am a Full Stack Developer passionate about building scalable, user-centric web
 ---
 
 <h1 align="center">
-🛠 Skills
+  🛠 Skills
 </h1>
 
 <h3 align="center">
-🌐 Frontend
+  🌐 Frontend
 </h3>
 
 <p align="center">
