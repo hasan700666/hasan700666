@@ -19,9 +19,9 @@
   👋 About Me
 </h1>
 
-<p align="center">
+<h4 align="center">
 I am a Full Stack Developer passionate about building scalable, user-centric web applications that combine clean, intuitive interfaces with robust and reliable APIs. My focus is on creating solutions that not only work efficiently but also deliver a smooth and engaging user experience.
-</p>
+</h4>
 
 ---
 
