@@ -15,11 +15,14 @@
 
 ---
 
+<div align="center">
 ## 👋 About Me
+</div>
 
 I am a Full Stack Developer passionate about building scalable, user-centric web applications that combine clean, intuitive interfaces with robust and reliable APIs. My focus is on creating solutions that not only work efficiently but also deliver a smooth and engaging user experience.
 
 ---
+
 
 ## 🚀 Current Activities
 
