@@ -184,7 +184,7 @@ I am a Full Stack Developer passionate about building scalable, user-centric web
   <a href="https://www.linkedin.com/in/mohammodhasanalmuttaki/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:mohammodhasanalmuttaki@gmail.com">
+  <a href="[mailto:mohammodhasanalmuttaki@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=jrjtXJTXkMmzrHhxLkfdXGtsfsTvzgJnKGctvNSLRPtCCkbDcRClJDQtsrGlhLDshswZcBbX)">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
