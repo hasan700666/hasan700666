@@ -31,9 +31,9 @@ I am a Full Stack Developer passionate about building scalable, user-centric web
 🛠 Skills
 </h1>
 
-<h2 align="center">
-  🌐 Frontend
-</h2>
+<h3 align="center">
+🌐 Frontend
+</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
