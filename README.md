@@ -59,6 +59,119 @@ I am a Full Stack Developer passionate about building scalable, user-centric web
 
 ---
 
+<h1 align="center">🚀 Projects</h1>
+
+<!-- Project 1 -->
+<h3 align="center">Food Lover</h3>
+
+<p align="center">
+  Local Food Lovers Network is a full-stack web application designed for food enthusiasts
+  to discover, share, and celebrate local culinary experiences. Users can post reviews
+  with photos, explore dishes shared by others, and connect with a community of food lovers.
+</p>
+
+<h4 style="border-bottom: 2px solid #999; display: inline-block; padding-bottom: 4px;">
+  Key Features 👇
+</h4>
+
+<div align="left">
+
+  <div align="left" style="list-style-position: inside; padding: 0;">
+    --> User authentication with secure access and role-based routes
+  </div>
+  <div align="left" style="list-style-position: inside; padding: 0;">
+    --> Create, read, update, and delete posts with images and reviews
+  </div>
+  <div align="left" style="list-style-position: inside; padding: 0;">
+    --> Explore food shared by community members
+  </div>
+  <div align="left" style="list-style-position: inside; padding: 0;">
+    --> RESTful APIs for users, posts, and reviews
+  </div>
+  <div align="left" style="list-style-position: inside; padding: 0;">
+    --> Fully responsive and user-friendly UI
+  </div>
+
+</div>
+
+<div align="center">
+  Live link
+</div>
+<div align="center">
+  https://food-lover-7eb8f.web.app/
+</div>
+
+<h4 align="right" style="border-bottom: 2px solid #999; display: inline-block; padding-bottom: 4px;">
+  Code 👇
+</h4>
+
+<div align="right">
+  https://github.com/hasan700666/Project-Food_Lover-client - Client code <--
+</div>
+<div align="right">
+  https://github.com/hasan700666/Project-Food_Lover-server - Server code <--
+</div>
+
+
+---
+
+<!-- Project 2 -->
+<h3 align="center">Mokhed</h3>
+
+<p align="center">
+  Public Infrastructure Issue Reporting System that enables citizens to report, track,
+  and resolve public infrastructure problems efficiently. It ensures transparent
+  communication between citizens and authorities.
+</p>
+
+<h4 style="border-bottom: 2px solid #999; display: inline-block; padding-bottom: 4px;">
+  Key Features 👇
+</h4>
+
+<div align="left">
+  
+<div align="left" style="list-style-position: inside; padding: 0;">
+  --> Role-based authentication (Citizen / Admin / Staff)
+</div>
+<div align="left" style="list-style-position: inside; padding: 0;">
+  --> Issue reporting with images, locations, and status tracking
+</div>
+<div align="left" style="list-style-position: inside; padding: 0;">
+  --> Upvoting system for critical public issues
+</div>
+<div align="left" style="list-style-position: inside; padding: 0;">
+  --> Admin and staff task management
+<div align="left" style="list-style-position: inside; padding: 0;">
+  --> Email/password and Google authentication
+</div>
+<div align="left" style="list-style-position: inside; padding: 0;">
+  --> Fully responsive UI
+
+
+<div align="center">
+  Live link 
+</div>
+<div align="center">
+  https://mokhed-4d701.web.app/
+</div>
+
+<h4 align="right" style="border-bottom: 2px solid #999; display: inline-block; padding-bottom: 4px;">
+  Code 👇
+</h4>
+
+<div align="right">
+    https://github.com/hasan700666/Project-Mokshed-client - Client code <--
+</div>
+<div align="right">
+    https://github.com/hasan700666/Project-Mokshed-server - Server code <--
+</div>
+
+
+
+
+
+
+
 
 ## 🚀 Current Activities
 
