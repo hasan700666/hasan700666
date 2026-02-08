@@ -175,45 +175,6 @@ I am a Full Stack Developer passionate about building scalable, user-centric web
 </div>
 
 
-
-
-
-
-
-
-## 🚀 Current Activities
-
-* 🌱 Exploring **Next.js** and modern React patterns
-* 🧳 Working on a **Tourism Website** project
-* 🛠 Improving backend performance with **Node.js & MongoDB**
-* 🧠 Practicing **problem-solving & clean architecture**
-
----
-
-## 🛠 Skills
-
-### 
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
-</p>
-
-### 
-
-
-
-### 
-
-
-
-### 
-
-<p>
-  
-</p>
-
----
-
 ## 🔗 Connect With Me
 
 <p>
@@ -225,23 +186,6 @@ I am a Full Stack Developer passionate about building scalable, user-centric web
   </a>
 </p>
 
----
-
-## 📌 Featured Projects
-
-### 🧳 Tourism Website
-
-* A full-stack MERN project for exploring tourist destinations
-* Features: authentication, dynamic content, responsive UI
-* Tech: React, Node.js, Express, MongoDB
-
-### 🔐 Digital Safety Platform (Concept)
-
-* Focused on improving online safety & user awareness
-* Planned features: reporting system, educational resources
-* Tech Stack: MERN + Next.js (in progress)
-
----
 
 ## 📊 GitHub Stats
 
@@ -256,4 +200,3 @@ I am a Full Stack Developer passionate about building scalable, user-centric web
 
 ---
 
-⭐ *Feel free to explore my repositories and connect with me!*
