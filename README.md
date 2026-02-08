@@ -2,7 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:737373,100:737373&height=320&section=header&text=Mohammod%20Hasan%20Al%20Muttaki&fontSize=40&fontColor=ffffff&textY=50" alt="Banner" />
 </p>
 
-<h3 align="center">Full Stack Web Developer | MERN Stack</h3>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=ffffff&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Abdul+Ali+Sawan;Full+Stack+MERN+Developer;Performance-Focused+Web+Engineer;Building+Fast+%26+Scalable+Applications)](https://git.io/typing-svg)
+
+</div>
+
 
 ---
 
