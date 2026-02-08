@@ -25,6 +25,22 @@ I am a Full Stack Developer passionate about building scalable, user-centric web
 
 ---
 
+---
+
+<h1 align="center">
+  🛠 Skills
+</h1>
+
+<h2 align="center">
+  🌐 Frontend
+</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
+</p>
+
+---
+
 
 ## 🚀 Current Activities
 
@@ -37,7 +53,7 @@ I am a Full Stack Developer passionate about building scalable, user-centric web
 
 ## 🛠 Skills
 
-### 🌐 Frontend
+### 
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
@@ -52,7 +68,7 @@ I am a Full Stack Developer passionate about building scalable, user-centric web
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python" />
+  <img src="https://skillicons.dev/icons?i=js,java,python" />
 </p>
 
 ### 🧰 Tools & Platforms
