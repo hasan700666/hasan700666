@@ -191,7 +191,6 @@ I am a Full Stack Developer passionate about building scalable, user-centric web
 
 
 
----
-
-
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:737373,100:737373&height=120&section=footer&text=Crafting%20Clean%20Code&fontSize=24&fontColor=ffffff&textY=50" />
+</div>
