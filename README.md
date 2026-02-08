@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=220&section=header&text=Hasan%20Al%20Muttaki&fontSize=40&fontColor=ffffff" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:374151&height=220&section=header&text=Hasan%20Al%20Muttaki&fontSize=40&fontColor=ffffff" alt="Banner" />
 </p>
 
-<h1 align="center">Hasan Al Muttaki</h1>
+<h1 align="center">Mohammod Hasan Al Muttaki</h1>
 <h3 align="center">Full Stack Web Developer | MERN Stack</h3>
 
 ---
