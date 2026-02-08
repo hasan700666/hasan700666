@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:737373,100:737373&height=220&section=header&text=Mohammod%20Hasan%20Al%20Muttaki&fontSize=40&fontColor=ffffff&textY=50" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:737373,100:737373&height=320&section=header&text=Mohammod%20Hasan%20Al%20Muttaki&fontSize=40&fontColor=ffffff&textY=50" alt="Banner" />
 </p>
 
 <h3 align="center">Full Stack Web Developer | MERN Stack</h3>
