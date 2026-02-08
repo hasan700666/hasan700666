@@ -38,7 +38,15 @@ I am a Full Stack Developer passionate about building scalable, user-centric web
 </h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+<h3 align="center">
+  🗄️ Database
+</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
 <h3 align="center">
