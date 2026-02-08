@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:052e16&height=220&section=header&text=Hasan%20Al%20Muttaki&fontSize=40&fontColor=ffffff" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1f2933&height=220&section=header&text=Hasan%20Al%20Muttaki&fontSize=40&fontColor=ffffff" alt="Banner" />
 </p>
 
 <h1 align="center">Mohammod Hasan Al Muttaki</h1>
