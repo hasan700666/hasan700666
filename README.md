@@ -174,13 +174,28 @@ I am a Full Stack Developer passionate about building scalable, user-centric web
     https://github.com/hasan700666/Project-Mokshed-server - Server code <--
 </div>
 
+---
+<h1 align="center">🔗 Connect</h1>
 
-## 🔗 Connect With Me
+<p align="center">
+  <a href="https://github.com/hasan700666">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohammodhasanalmuttaki/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/hasan700666">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>  
+</p>
+<a >
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
 
 <p>
   <a href="https://github.com/hasan700666">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
-  </a>
+  
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
