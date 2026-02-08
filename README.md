@@ -178,16 +178,17 @@ I am a Full Stack Developer passionate about building scalable, user-centric web
 <h1 align="center">🔗 Connect</h1>
 
 <p align="center">
-  <a href="https://github.com/hasan700666">
+  <a href="https://github.com/hasan700666" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://www.linkedin.com/in/mohammodhasanalmuttaki/">
+  <a href="https://www.linkedin.com/in/mohammodhasanalmuttaki/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:mohammodhasanalmuttaki@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>  
+  </a>
 </p>
+
 
 ---
 
