@@ -4,7 +4,8 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=ffffff&center=true&vCenter=true&width=940&lines=Hi%2C+I+am+Hasan;Full-Stack+MERN+Developer;Clean+UI+%26+High-Performance+Web+Applications;Focused+on+Performance%2C+Scalability+%26+User+Experience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=ffffff&center=true&vCenter=true&width=940&lines=Hi%2C+I+am+Hasan;Full-Stack+MERN+Developer;Clean+UI+%26+High-Performance+Web+Applications;Building+Scalable+%26+User-Friendly+Solutions)](https://git.io/typing-svg)
+
 
 
 
